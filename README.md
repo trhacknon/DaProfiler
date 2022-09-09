@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/dalunacrobate/daprofiler)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/trhacknon/daprofiler)
 ![](https://visitor-badge.laobi.icu/badge?page_id=dalunacrobate.daprofiler)
 
 For educational purposes only.
@@ -15,7 +15,7 @@ The particularity of this program is its ability to find the e-mail addresses of
 
 Python 3.8 required
 ```bash
-git clone https://github.com/dalunacrobate/DaProfiler.git
+git clone https://github.com/trhacknon/DaProfiler.git
 cd DaProfiler
 pip install -r requirements.txt
 ```
@@ -40,7 +40,7 @@ optional arguments:
 
 ## 📷 Demo
 ### WEB UI
-![Alt Text](https://github.com/dalunacrobate/Gifs/blob/main/gif.gif)
+![Alt Text](https://github.com/trhacknon/Gifs/blob/main/gif.gif)
 ### CONSOLE
 ![](https://i.ibb.co/YPHwv39/hh.png)
 
@@ -51,11 +51,11 @@ optional arguments:
 | apilayer.net | Phone infos | Free ✅ | ✅ |
 
 Add your premium api keys :
-+ Go to [modules\api_modules](https://github.com/dalunacrobate/DaProfiler/tree/main/modules/api_modules) then open your API module (ex Leakcheck), replace "YOUR_KEY" to your key, save and quit your text editor.
++ Go to [modules\api_modules](https://github.com/trhacknon/DaProfiler/tree/main/modules/api_modules) then open your API module (ex Leakcheck), replace "YOUR_KEY" to your key, save and quit your text editor.
 
 ##  📝 Contact
-Mail : _daluna_pro@protonmail.ch_. <br>
-Discord : `Dalunacrobate#6166` <br>
+Mail : trhacknon@protonmail.ch_. <br>
+Discord : `trhacknon` <br>
 Discord server : [https://discord.gg/6yJuV4zc2h](https://discord.gg/VKGnmaXSbX)
 
 
